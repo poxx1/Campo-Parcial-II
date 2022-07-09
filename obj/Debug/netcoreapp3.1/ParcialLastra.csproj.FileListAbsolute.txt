@@ -1,0 +1,14 @@
+F:\Proyecto Parcial\ParcialLastra\bin\Debug\netcoreapp3.1\ParcialLastra.exe
+F:\Proyecto Parcial\ParcialLastra\bin\Debug\netcoreapp3.1\ParcialLastra.deps.json
+F:\Proyecto Parcial\ParcialLastra\bin\Debug\netcoreapp3.1\ParcialLastra.runtimeconfig.json
+F:\Proyecto Parcial\ParcialLastra\bin\Debug\netcoreapp3.1\ParcialLastra.runtimeconfig.dev.json
+F:\Proyecto Parcial\ParcialLastra\bin\Debug\netcoreapp3.1\ParcialLastra.dll
+F:\Proyecto Parcial\ParcialLastra\bin\Debug\netcoreapp3.1\ParcialLastra.pdb
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.csproj.AssemblyReference.cache
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.AssemblyInfoInputs.cache
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.AssemblyInfo.cs
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.csproj.CoreCompileInputs.cache
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.dll
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.pdb
+F:\Proyecto Parcial\ParcialLastra\obj\Debug\netcoreapp3.1\ParcialLastra.genruntimeconfig.cache
